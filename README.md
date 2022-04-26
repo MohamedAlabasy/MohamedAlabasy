@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohamed Alabasy</h1>
 <h3 align="center">A Software Engineering Trainee at Information Technology Instituite (ITI) studying Open Source Application Development</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarelsherif010&label=Profile%20views&color=0e75b6&style=flat" alt="omarelsherif010" /> </p>
 
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    
 - 🌱 I’m currently learning **Software Engineering**
+
+- 📫 How to reach me **eng.mohamed.alabasy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
